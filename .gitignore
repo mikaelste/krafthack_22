@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 data/
+notebooks/mikael_playground.ipynb
